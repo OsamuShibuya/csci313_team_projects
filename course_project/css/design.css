@@ -1,0 +1,9 @@
+/* Set margins for div elements to 5px */
+div {
+    margin: 5px;
+}
+
+/* Display paragraph in red color */
+p {
+    color: red;
+}
